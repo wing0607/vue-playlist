@@ -20,7 +20,7 @@ export default {
       users: [{name:"Henery",job:"web前端",show:false},
         {name:"Bucky",job:"web前端",show:false},
         {name:"Emily",job:"web前端",show:false},],
-      title:"app"
+         title:"app"
     }
   },
   methods:{
